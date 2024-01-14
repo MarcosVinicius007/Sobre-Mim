@@ -11,8 +11,7 @@ TypeScript,<br>
 Framework,<br>
 Bootstrap, <br>
 Github.<br>
-Software Engenher Front End . <br>
-Estudante do curso Análise e Desenvolvimento de Sistemas.<br> 
+Software Engenher Front End sstudante do curso Análise e Desenvolvimento de Sistemas.<br> 
 Procuro estar  sempre evoluindo como pessoa e tenho em mente que quando conseguimos evoluir como pessoa,<br>  
 a evolução profissional é apenas uma consequência.<br> 
 Minhas competências skills para análise de dados.<br>
