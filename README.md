@@ -10,4 +10,4 @@ Também fiz cursos atualizados de Excel e Dynamics 365 Finance, com foco em cont
 Tenho conhecimentos em Microsoft Dynamics 365 (ERP) e Dynamics Supply Chain Management.<br>
 Desenvolvimento Web:<br>
 Cursei Lógica de Programação Avançada, JavaScript Avançado e HTML/CSS para Programadores.<br>
-Se precisar de mais informações ou tiver alguma pergunta, estou à disposição! 😊</p>
+Se precisar de  informações ou tiver alguma pergunta, estou à disposição! 😊</p>
