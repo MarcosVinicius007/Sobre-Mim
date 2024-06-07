@@ -1,4 +1,5 @@
-<h1>Olá! Sou estudante do curso tecnólogo de Análise e Desenvolvimento de Sistemas</h1>  
+<h1>Olá, Meu nome é Marcos Sou estudante do curso tecnólogo de Análise e Desenvolvimento de Sistemas</h1>  
+<hr>
 <p>Apaixonado por dados, algoritmos e padrões. Meu objetivo é evoluir constantemente como pessoa.
   <br> Acredito que o crescimento pessoal é a base para o sucesso profissional.</p>
 
