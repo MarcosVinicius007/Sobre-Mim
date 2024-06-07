@@ -2,8 +2,6 @@
 <p>Apaixonado por dados, algoritmos e padrões. Meu objetivo é evoluir constantemente como pessoa.
   <br> Acredito que o crescimento pessoal é a base para o sucesso profissional.</p>
 
-<h1>Tecnologias e Competências:</h1>
-
 <h1>Tecnologias:</h1>
 <p>HTML5, CSS3, JavaScript, React, TypeScript, Bootstrap e GitHub.</p>
 <h1>Certificações:</h1>
