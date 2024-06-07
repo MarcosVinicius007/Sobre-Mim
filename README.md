@@ -1,4 +1,6 @@
-<h1>Olá! Sou um engenheiro de software front-end apaixonado por dados, algoritmos e padrões. Meu objetivo é evoluir constantemente como pessoa, acreditando que o crescimento pessoal é a base para o sucesso profissional.<h1/>
+<h1>Olá! Sou estudante do curso tecnólogo de Análise e Desenvolvimento de Sistemas</h1>  
+<p>Apaixonado por dados, algoritmos e padrões. Meu objetivo é evoluir constantemente como pessoa.
+  <br> Acreditando que o crescimento pessoal é a base para o sucesso profissional.</p>
 
 <h2>Tecnologias e Competências:</h2>
 
