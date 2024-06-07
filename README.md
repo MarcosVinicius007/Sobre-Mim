@@ -10,9 +10,9 @@ CSS3<br>
 JavaScript<br>
 React<br>
 TypeScript<br> 
-Bootstrap e GitHub.</p>
+Bootstrap e GitHub.
 <strong>Certificações:<strong>
-<p>Concluí o curso “Introdução à Análise de Dados” da Microsoft, onde aprendi a criar dashboards interativos no Power BI.<br>
+Concluí o curso “Introdução à Análise de Dados” da Microsoft, onde aprendi a criar dashboards interativos no Power BI.<br>
 Também fiz cursos atualizados de Excel e Dynamics 365 Finance, com foco em contabilidade e configuração.<br>
 Tenho conhecimentos em Microsoft Dynamics 365 (ERP) e Dynamics Supply Chain Management.<br>
 Desenvolvimento Web:<br>
