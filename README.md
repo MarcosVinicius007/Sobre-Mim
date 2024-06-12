@@ -4,8 +4,8 @@
   Acredito que o crescimento pessoal é a base para o sucesso profissional.</p>
 <hr>
 <strong>Tecnologias:</strong>
-<p>HTML5<br> 
-CSS3<br> 
+<p>Html<br> 
+Css<br> 
 JavaScript<br>
 React<br>
 TypeScript<br> 
