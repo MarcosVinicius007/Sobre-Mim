@@ -1,5 +1,4 @@
 <h1>Sobre Mim</h1>  
-<hr>
   <p>Olá , eu me chamo Marcos  sou estudante do curso tecnólogo de Análise e Desenvolvimento de Sistemas<br>
   Apaixonado por dados, algoritmos e padrões. Meu objetivo é evoluir constantemente como pessoa.<br>
   Acredito que o crescimento pessoal é a base para o sucesso profissional.</p>
