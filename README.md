@@ -6,16 +6,32 @@
 <strong>Tecnologias:</strong>
 <p>Html<br> 
 Css<br> 
+Java<br>
 JavaScript<br>
 React<br>
 TypeScript<br> 
 Bootstrap e GitHub.</p>
 <hr>
-<strong>Certificações:</strong>
+<strong>EDUCAÇÃO</strong>
 <hr>
-<p>Concluí o curso <strong>“Introdução à Análise de Dados” da Microsoft</strong>, onde aprendi a criar dashboards interativos no Power BI.<br>
-Também fiz cursos atualizados de <strong>Excel e Dynamics 365 Finance</strong>, com foco em contabilidade e configuração.<br>
-Tenho conhecimentos em <strong> Microsoft Dynamics 365 (ERP) e Dynamics Supply Chain Management </strong>.<br>
-<h2>Desenvolvimento Web:</h2>
-Cursei Lógica de <strong>Programação Avançada, JavaScript Avançado e HTML/CSS para Programadores.</strong><br>
-Se precisar de  informações ou tiver alguma pergunta, estou à disposição! 😊</p>
+<p>Estácio de Sá (NIVEL SUPERIOR-TECNOLOGO)
+Curso : Analise e Desemvolvimento De Sistemas</p>
+Iníciu 10/06/23 – Tremino 10/12/25
+<strong>
+  <h1>CURSOS COMPLEMENTARES </h1>
+  
+  <p>CURSO-Conheça os conceitos básicos do Microsoft Dynamics 365 Customer Service   (2023) Com Certificado da Microsoft ,<br> 
+    carga horária estimada  de 4 :00 ho</p>
+  
+ <p>CURSO-Conceitos básicos do Microsoft Dynamics 365 (ERP): Explorar o Dynamics 365 Supply Chain Management (2023) <br>
+   Com Certificado da Microsoft , carga horária estimada  de 4 :00 ho </p>
+   
+ <p>CURSO-Conceitos básicos do Microsoft Dynamics 365 (CRM): Explorar o Dynamics 365 Field Service (2023)<br> 
+Certificado da Microsoft , carga horária estimada  de 4 :00 ho </p> 
+
+ <p>CURSO-Introdução Inteligência artificial do Azure (2023)<br> 
+    Com Certificado da Microsoft ,carga horária estimada  de 4 :00 ho </p> 
+
+ <p>CURSO -Introdução à Análise de dados da Microsoft (2023)<br> 
+ Certificado da Microsoft , carga horária estimada  de 3:00 ho </p> 
+  
